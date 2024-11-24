@@ -1,4 +1,5 @@
-##🚀 URL Shortener API ##
+#🚀 URL Shortener API #
+
 ** Um sistema de encurtamento e redirecionamento de URLs desenvolvido com AWS Serverless e Java, permitindo a criação de URLs curtas com um prazo de validade configurável. **
 
 🛠️ Tecnologias Utilizadas
